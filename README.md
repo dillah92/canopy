@@ -1,4 +1,13 @@
-<img src="./canopy-logo-white-bg.svg" alt="Canopy Logo" width="500"/>
+# NRL Project (Neural Frontier)
+
+AI-Native Sub-chain ecosystem powered by Canopy Network.
+
+**Development Status:**
+- **Developer:** dillah92
+- **Status:** Active Development - April 2026
+
+---
+ <img src="./canopy-logo-white-bg.svg" alt="Canopy Logo" width="500"/>
 
 _Official golang implementation of the Canopy Network Protocol_
 
